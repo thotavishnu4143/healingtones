@@ -17,7 +17,7 @@ import {
   SidebarTrigger
 } from '@/components/ui/sidebar'
 import { AudioProvider, useAudio } from '@/components/context/AudioContext'
-import AudioPlayer from '@/components/audio/AudioPlayer'
+import AudioPlayer from '@/components/audio/Audioplayer'
 import { db } from '@/firebase'
 import { collection, addDoc, serverTimestamp } from 'firebase/firestore'
 
