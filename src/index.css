@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --primary: #7C3AED;
+  --primary-light: #A855F7;
+  --secondary: #14B8A6;
+  --accent: #F59E0B;
+} */
+
+html, body, #root {
+  height: 100%;
+}
